@@ -20,4 +20,4 @@ A brief about the notebook:
 
 7- Saving the Model
 
-![](1.jpg)
+![](1.png)
